@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    background: rgba(255, 208, 0, 0.7);
+    background: rgba(142, 142, 142, 0.7);
     border-radius: 15px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.5);
     padding: 30px;
@@ -43,7 +43,7 @@ body {
 
 .bio {
     font-family: 'KellySlab';
-    color: #ffffff;
+    color: #dddddd;
     font-size: 14px;
     margin-bottom: 15px;
     font-weight: 800;
@@ -58,7 +58,7 @@ body {
 .link {
     font-family: 'Courier New', Courier, monospace;
     padding: 12px;
-    background-color: #e6e206;
+    background-color: #cccccc;
     color: #ffffff;
     border-radius: 8px;
     text-decoration: none;
@@ -74,14 +74,14 @@ body {
 }
 
 .link:hover {
-    background-color: #aaac10;
+    background-color: #dddddd;
     transform: translateY(-3px);
 }
 footer {
     font-family: 'KellySlab';
     margin-top: 20px;
     font-size: 12px;
-    color: #ffffff;
+    color: #dddddd;
     font-weight: 800;
 }
 @font-face{
